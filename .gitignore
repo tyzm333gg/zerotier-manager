@@ -1,0 +1,5 @@
+/target
+*.pkg.tar.zst
+/srcdir
+/pkg
+Cargo.lock

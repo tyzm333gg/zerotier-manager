@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ZeroTier Manager
+Comment=Графический интерфейс управления сетями ZeroTier
+Exec=zerotier-manager
+Icon=network-vpn-symbolic
+Terminal=false
+Type=Application
+Categories=Network;VPN;GTK;
+StartupNotify=true
